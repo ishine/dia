@@ -4,6 +4,8 @@ This is a fork of the original DIA model extended for **multilingual TTS**, with
 
 ---
 
+## Not actively maintained
+
 ## 🧠 Supported Languages
 
 Supports over 30 languages via `<lang>` token injection, including:
