@@ -84,3 +84,5 @@ To use reference audio (zero-shot style cloning):
 Built on top of:
 - [DIA](https://github.com/nari-labs/dia)
 - [StyleTTS2](https://github.com/yl4579/StyleTTS2)
+
+By Team [Listnr](https://listnr.ai/) | [EzUGC](https://www.ezugc.ai/)
